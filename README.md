@@ -30,16 +30,16 @@ A real time multiplayer trivia quiz game. The game is always-on so to speak, and
 
 The user is given multiple choices to answer the question. Questions are removed as time progresses.
 
-<img src='https://github.com/conspop/trivia_night/blob/main_app/static/imgs/question-page.png'>
+<img src='https://github.com/conspop/trivia_night/blob/main/main_app/static/imgs/question-page.png'>
 
 ### Waiting page
 
 After the user makes a selection, they wait until everyone else has answered and can see the scores that other players got on the same question.
 
-<img src='https://github.com/conspop/trivia_night/blob/main_app/static/imgs/waiting-page.png'>
+<img src='https://github.com/conspop/trivia_night/blob/main/main_app/static/imgs/waiting-page.png'>
 
 ### Intermission page
 
 In between questions, there is an intermission period. The user can check the high scores and the page also provides some dynamic content whether it be a fact, the users rank in a certain period or a tutorial on the game.
 
-<img src='https://github.com/conspop/trivia_night/blob/main_app/static/imgs/intermission-page.png'>
+<img src='https://github.com/conspop/trivia_night/blob/main/main_app/static/imgs/intermission-page.png'>
